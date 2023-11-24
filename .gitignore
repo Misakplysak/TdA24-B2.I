@@ -1,0 +1,40 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+data/
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Mac files
+.DS_Store
+
+# Editor directories and files
+.idea
+*.swp
+*.swo
+*.swn
+*.sublime*
+.vscode/
+
+# Node build artifacts
+node-gyp/
+
+# dotenv environment variables file
+.env
+.env.test
+
+# Package lock files (uncomment if you want to ignore them)
+# package-lock.json
+# yarn.lock
+
+data/
